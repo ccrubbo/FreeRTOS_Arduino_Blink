@@ -19,6 +19,10 @@ Attach logic analyzer lines and/or LEDs/resistors to the following pins:
 - `DIGITAL1`: pin associated with the "first" LED
 - `DIGITAL2`: pin associated with the "second" LED
 
+See the image below for an example test setup using a logic analyzer.
+
+<img src="https://github.com/ccrubbo/FreeRTOS_Arduino_Blink/blob/main/Test%20Setup.jpg" width="50%">
+
 ### Building and Flashing
 Use the steps below to setup the project environment and flash your board
 1. Download and install the Arduino IDE https://www.arduino.cc/en/software
