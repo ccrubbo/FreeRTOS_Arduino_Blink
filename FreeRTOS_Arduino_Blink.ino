@@ -26,8 +26,8 @@ bool tasks_init(void) {
 // To configure the second LED behavior
 #define LED2_PIN              PIN_D2
 #define LED2_BLINK_PERIOD_MS  3000    /* time between blink sequences */
-#define LED2_BLINK_COUNT      3       /* number of blinks in sequence */
-#define LED2_BLINK_DELAY_MS   250     /* time between blinks in sequence */
+#define LED2_BLINK_COUNT      5       /* number of blinks in sequence */
+#define LED2_BLINK_DELAY_MS   100     /* time between blinks in sequence */
 
 // To configure the timer
 #define TIMER_MODE      TIMER_MODE_PERIODIC
