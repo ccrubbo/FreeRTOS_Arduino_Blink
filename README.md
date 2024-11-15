@@ -34,7 +34,7 @@ Use the steps below to setup the project environment and flash your board
 
 ## Test Results
 Using a logic analyzer, I captured 10 minutes of data to verify timings. See the screenshot below, where:
-- `DBG`: toggled every time the first LED starts its blink sequence
+- `DBG`: toggled every time the second LED starts its blink sequence
 - `LED1`: toggled when the 16-bit timer count reaches 65,000
 - `LED2`: starts the second LED blink sequence every three seconds
 
